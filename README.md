@@ -5,7 +5,7 @@ Autors: Dāvis Kalvāns
 
 # Nepieciešamais programmu kodu palaišanai
 
-### Python versija vismaz 3.8.8
+### Python (vismaz versija 3.8.8)
 Pieejama šeit: https://www.python.org/
 
 ### MPI
