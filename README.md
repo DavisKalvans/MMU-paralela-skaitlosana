@@ -1,7 +1,10 @@
 # MMU-paralela-skaitlosana
 
-MMU 02.04.2022 "Paralēlā skaitļošana" lekcijas izmantotie programmu kodi
 Autors: Dāvis Kalvāns
+
+MMU 02.04.2022 "Paralēlā skaitļošana" lekcijas izmantotie programmu kodi.
+
+Lekcijā tika aplūkoti paralēlās skaitļošanas algoritmi, lai aprēķinātu laukumu zem funkcijas līknes (nenoteiktais integrālis) un meklētu pirmskaitļus.
 
 # Nepieciešamais programmu kodu palaišanai
 
